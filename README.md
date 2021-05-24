@@ -6,3 +6,5 @@ description: "Welcome to Space Panda land \U0001F43C"
 
 ## Who are Space Pandas
 
+Space pandas are adventure fanatic who live in the blockchain universe.
+
