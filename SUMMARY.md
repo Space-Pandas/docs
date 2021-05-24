@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Wecome](README.md)
+* [Welcome](README.md)
 
