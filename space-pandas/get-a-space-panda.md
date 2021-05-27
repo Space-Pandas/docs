@@ -35,11 +35,11 @@ Total 19 for space pandas hidden edition.  They will be distributed through auct
 | Space Panda Type | Issue Count | Issue Way |
 | :--- | :--- | :--- |
 | Basic Edition | 46320 | Airdrop & Blind Box |
-| Special Edition | 408 x 3 | Auction |
-| Hidden Edition | 19 x 3 | Auction |
+| Special Edition | 408 x 3 | Auction \(Three series\) |
+| Hidden Edition | 19 x 3 | Auction \(Three series\) |
 | Special Grants | 10 | Not Sold |
 
-Total space pands are 47611
+Total space pandas are 47611
 
 
 
