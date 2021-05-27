@@ -5,7 +5,8 @@
 ## Space Pandas
 
 * [Space Panda Profile](space-pandas/space-panda-profile.md)
-* [How to get SP token](space-pandas/how-to-get-spt.md)
+* [Get a Space Panda](space-pandas/get-a-space-panda.md)
+* [Get Space token \(SPT\)](space-pandas/get-spt.md)
 
 ## Land
 
