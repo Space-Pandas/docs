@@ -23,3 +23,12 @@ Different space pandas have difference in color, size, decorations, etc. Details
 9. **Glow**: It is super rare that some space pandas were born from noble race,  with glow around their body.
 10. .**.. to be continued**
 
+## Space Panda Score
+
+Since different space pandas have difference in various aspects. We introduces a ability score to represent the rarity of them. The space pandas with high ability score will differ in:
+
+1. **High mining speed**: They will get high mining speed for the interstellar mineral resources, and get more Space Token \(SPT\). 
+2. **High asset value**：They can be traded on [OpenSea](https://opensea.io/assets) with a high price.
+
+
+
