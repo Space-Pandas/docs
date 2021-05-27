@@ -8,6 +8,8 @@ description: "Welcome to Space Panda land \U0001F43C"
 
 Space pandas are adventure fanatic who live in the blockchain universe.  They were first discovered by interstellar explorers of blockchain universe in 2021.
 
+![](.gitbook/assets/banner.png)
+
 Space pandas were born to be a magician, smart and creative. They are always looking into the universe with their big and shining eyes,  discovering the truth of the world.
 
 ## What is SP Token \(SPT\)
