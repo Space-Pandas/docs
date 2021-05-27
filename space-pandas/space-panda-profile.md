@@ -4,11 +4,13 @@
 
 Space pandas are lovely interstellar explorers and warriors. Here is an photo of a space panda. 
 
-![](../.gitbook/assets/panda.svg)
+![](../.gitbook/assets/panda_base.png)
 
 ## Space Panda Features
 
 Different space pandas have difference in color, size, decorations, etc. Details are:
+
+![](../.gitbook/assets/pandas.png)
 
 1. **Skin color**:  theoretically there are 151200 colors as maximum.
 2. **Eye colors**:  usually the left eye has the same color with the right eye. However, there is a small probability that they have different color. When this happens, the space panda is rare.
