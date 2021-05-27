@@ -2,10 +2,10 @@
 
 * [Welcome](README.md)
 
-## Pandas
+## Space Pandas
 
-* [How to get a panda](pandas/how-to-get-a-panda.md)
-* [How to get SP token](pandas/how-to-get-spt.md)
+* [Space Panda Profile](space-pandas/space-panda-profile.md)
+* [How to get SP token](space-pandas/how-to-get-spt.md)
 
 ## Land
 
