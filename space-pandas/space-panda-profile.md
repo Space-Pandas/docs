@@ -12,7 +12,7 @@ Different space pandas have difference in color, size, decorations, etc. Details
 
 ![](../.gitbook/assets/pandas.png)
 
-1. **Skin color**:  theoretically there are 151200 colors as maximum.
+1. **Skin color**:  theoretically there are 151200 colors as maximum, some colors are rare.
 2. **Eye colors**:  usually the left eye has the same color with the right eye. However, there is a small probability that they have different color. When this happens, the space panda is rare.
 3. **Sizes of eyes/mouth/nose**: their may have different sizes of their eyes, mouth and nose.
 4. **Positions of eyes/mouth/nose**: their may have different positions of their eyes, mouth and nose.
