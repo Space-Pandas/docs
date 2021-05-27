@@ -18,5 +18,6 @@ Different space pandas have difference in color, size, decorations, etc. Details
 6. **Hairs**: their may have different hairs, and some of them are rare.
 7. **Decorations**: such as space suit, transportation, medal, etc.
 8. **Name & birth place**: different space pandas may be born on different planets, with their unique name.
-9. .**.. to be continued**
+9. **Glow**: it is super rare that some space pandas were born from noble race,  with glow around their body.
+10. .**.. to be continued**
 
