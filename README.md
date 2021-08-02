@@ -30,11 +30,11 @@ This is a fair world, the game introduce the **Trusted Execution Environment** \
 
 Space Panda Land is not only a fun game, it has a cross-chain NFT public chain running behind. It can support Space Panda & SPT to be cross-chain transferred to any major blockchains, such as Ethereum, BSC, Polygon, etc. Any cross-chain transactions can be verified on Space Panda NFT chain
 
-You Space Pandas will be stored on both the NFT chain and IPFS, which will be permanently available.
+Your Space Pandas will be stored on both the NFT chain and IPFS, which will be permanently available.
 
 #### Social Feature
 
-Space Pandas can be the bridge to your friends, contacts, etc. You can play with the peope from social networks and leverage the play to earn characteristics of the game.
+Space Pandas can be the bridge to your friends, contacts, etc. You can play with the people from social networks and leverage the play to earn characteristics of the game.
 
 
 
