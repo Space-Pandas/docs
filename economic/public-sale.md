@@ -18,6 +18,6 @@
 Please note that:
 
 * There will be 4750 BNB collected at maximum from public sale. 
-* All the BNB collected from public sale will be used for ecosystem, such as mining record, buy back SPT to keep its price, etc.
+* **All the BNB collected from public sale will be used for ecosystem**, such as mining reword, buy back SPT to keep its price, etc.
 * All the SPT from public sale has a 12 month linear release.
 
