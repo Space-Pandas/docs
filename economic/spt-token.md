@@ -16,7 +16,7 @@ SPT is a multi-chain assets, it is first issued on Binance Smart Chain with a to
 
 The SPT token metrics are:
 
-* Total amount 100 million across all blockchains.
+* Total amount of 100 million across all blockchains.
 * 50% locked for gaming & mining, will be released gradually according to the gaming contract design.
 * 10% for public sale \(12 month linear\).
 * 10% for marketing \(36 month linear\).
