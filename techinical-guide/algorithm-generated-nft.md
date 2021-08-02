@@ -1,2 +1,2 @@
-# Algorithm generated NFT
+# Algorithm Generated NFT
 

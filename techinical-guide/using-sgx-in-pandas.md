@@ -1,2 +1,2 @@
-# Using SGX in pandas
+# Using SGX in Space Pandas
 

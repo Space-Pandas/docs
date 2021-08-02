@@ -1,2 +1,2 @@
-# OpenSea integration
+# OpenSea Integration
 

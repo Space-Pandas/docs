@@ -1,2 +1,2 @@
-# User generated crypto
+# User Generated Crypto
 

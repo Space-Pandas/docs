@@ -1,2 +1,2 @@
-# Space panda NFT wallet
+# Space Panda NFT Wallet
 

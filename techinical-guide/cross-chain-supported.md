@@ -1,2 +1,2 @@
-# Cross-chain supported
+# Cross-chain Supported
 
