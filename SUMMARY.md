@@ -14,6 +14,7 @@
 * [Earning SPT](gameplay/earning-spt/README.md)
   * [Play to Earn](gameplay/earning-spt/play-to-earn.md)
   * [Stake to Earn](gameplay/earning-spt/stake-to-earn.md)
+* [Land](gameplay/land.md)
 * [Social](gameplay/social.md)
 
 ## Economic
@@ -24,7 +25,7 @@
 
 * [Algorithm Generated NFT](techinical-guide/algorithm-generated-nft.md)
 * [Using SGX in Space Pandas](techinical-guide/using-sgx-in-pandas.md)
-* [Cross-chain Supported](techinical-guide/cross-chain-supported.md)
+* [Cross-Chain Supported](techinical-guide/cross-chain-supported.md)
 * [User Generated Crypto](techinical-guide/user-generated-crypto.md)
 * [Defi & Gaming](techinical-guide/defi-and-gaming.md)
 * [Space Panda NFT Wallet](techinical-guide/space-panda-nft-wallet.md)
