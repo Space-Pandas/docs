@@ -20,6 +20,7 @@
 ## Economic
 
 * [SPT Token](economic/spt-token.md)
+* [Public Sale](economic/public-sale.md)
 
 ## Techinical Guide
 
