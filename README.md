@@ -2,7 +2,7 @@
 description: "Welcome to Space Panda land \U0001F43C"
 ---
 
-# Welcome
+# Space Panda
 
 ## Who are Space Pandas
 
@@ -16,29 +16,27 @@ Space pandas were born to be a magician, smart and creative. They are always loo
 
 Space Panda Land is a blockchain world where anyone can earn SPT through skilled gameplay and contributions to the ecosystem. Players can battle with each other,  participate in the interstellar wars, collect and decorate their pets, and build a universe-based kingdom for them.
 
-## What is SP Token \(SPT\)
+There are various innovations in Space Panda Land.
 
-According to the records of interstellar explorers,  spaces pandas will collect a kind of mysterious mineral resources which are scattered in the universe. The mineral resources is the only acceptable currency in the blockchain universe, and was named by the legend of the space pandas.
+#### High-Tech Powered
 
-SPT is a multi-chain assets, it is first issued on Binance Smart Chain with a total amount 100 million.  SPT can be cross-chain transfer to Ethereum, Polygon, Harmony, Celo, Avalanche, OKEx, xDai, Fantom, HECO, etc. SPT can be used to:
+Space Panda Land uses an universal ERC20 & ERC721 cross-chain technology to simulate a complex universe that human beings live. There exist different blockchain planets, and different space pandas were burn, grow up and live on them. On these beautiful planets, they can travel, earn, make friends, battle, building their home, etc.
 
-* Naming the space panda.
-* Buy food & decorations for space panda.
-* Build land-based kingdom for space panda.
-* Buy material or resource for battle.
-* Buy fuel for interstellar travel \(cross-chain to other blockchain universe\).
-* Space panda social activities, such as photographing, holiday event, etc.
+#### Fairness
 
-The SPT token metrics are:
+This is a fair world, the game introduce the **Trusted Execution Environment** \(TEE\) technology to make sure that the Space Panda Blind Box is fair to everyone,  any Space Panda creation can be traced and verified by TEE.
 
-* Total amount 100 million across all blockchains.
-* 50% locked for gaming & mining, will be released gradually according to the gaming contract design.
-* 10% for public sale \(12 month linear\).
-* 10% for marketing \(36 month linear\).
-* 10% for community \(36 month linear\).
-* 10% for team \(36 month linear\).
-* 5% for foundation \(36 month linear\).
-* 5% for special grant \(36 month linear\).
+#### Highest Safety
 
-![SPT Token Metrics](.gitbook/assets/image.png)
+Space Panda Land is not only a fun game, it has a cross-chain NFT public chain running behind. It can support Space Panda & SPT to be cross-chain transferred to any major blockchains, such as Ethereum, BSC, Polygon, etc. Any cross-chain transactions can be verified on Space Panda NFT chain
+
+You Space Pandas will be stored on both the NFT chain and IPFS, which will be permanently available.
+
+#### Social Feature
+
+Space Pandas can be the bridge to your friends, contacts, etc. You can play with the peope from social networks and leverage the play to earn characteristics of the game.
+
+
+
+\*\*\*\*
 

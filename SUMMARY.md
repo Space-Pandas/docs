@@ -14,6 +14,7 @@
 * [Earning SPT](gameplay/earning-spt/README.md)
   * [Play to Earn](gameplay/earning-spt/play-to-earn.md)
   * [Stake to Earn](gameplay/earning-spt/stake-to-earn.md)
+* [Land](gameplay/land.md)
 * [Social](gameplay/social.md)
 
 ## Economic
