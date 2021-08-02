@@ -1,21 +1,24 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Space Panda](README.md)
+* [Space Panda Profile](space-panda-profile.md)
+* [Get a Space Panda](get-a-space-panda.md)
 
-## Space Pandas
+## Gameplay
 
-* [Space Panda Profile](space-pandas/space-panda-profile.md)
-* [Get a Space Panda](space-pandas/get-a-space-panda.md)
-* [Get Space token \(SPT\)](space-pandas/get-spt.md)
+* [Adventure](gameplay/adventure/README.md)
+  * [Interstellar Travel](gameplay/adventure/interstellar-travel.md)
+* [Battling](gameplay/battling/README.md)
+  * [Starcraft](gameplay/battling/starcraft.md)
+* [Breeding & Decorating](gameplay/breeding-and-decorating.md)
+* [Earning SPT](gameplay/earning-spt/README.md)
+  * [Play to Earn](gameplay/earning-spt/play-to-earn.md)
+  * [Stake to Earn](gameplay/earning-spt/stake-to-earn.md)
+* [Social](gameplay/social.md)
 
-## Land
+## Economic
 
-* [BSC mainland](land/bsc-mainland.md)
-
-## Interstellar
-
-* [Interstellar travel](interstellar/interstellar-travel.md)
-* [Starcraft](interstellar/starcraft.md)
+* [SPT Token](economic/spt-token.md)
 
 ## Techinical Guide
 
@@ -26,4 +29,8 @@
 * [Defi & Gaming](techinical-guide/defi-and-gaming.md)
 * [Space panda NFT wallet](techinical-guide/space-panda-nft-wallet.md)
 * [OpenSea integration](techinical-guide/opensea-integration.md)
+
+## Roadmap
+
+* [Milestones](roadmap/milestones.md)
 

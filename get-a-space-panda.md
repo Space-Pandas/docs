@@ -22,13 +22,13 @@ Total 46320 for space panda basic edition.  The first 200 will be distributed th
 
 Total 408 for space pandas special edition.  They will be distributed through auction.
 
-![One of the special space pandas](../.gitbook/assets/panda_special.png)
+![One of the special space pandas](.gitbook/assets/panda_special.png)
 
 ## Space Panda - Hidden
 
 Total 19 for space pandas hidden edition.  They will be distributed through auction.
 
-![One of the hidden space pandas \(own it to reveal the mask!\)](../.gitbook/assets/panda_hidden.png)
+![One of the hidden space pandas \(own it to reveal the mask!\)](.gitbook/assets/panda_hidden.png)
 
 ## Distribution Matrix
 

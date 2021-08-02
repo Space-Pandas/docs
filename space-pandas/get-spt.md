@@ -1,2 +1,0 @@
-# Get Space token \(SPT\)
-
