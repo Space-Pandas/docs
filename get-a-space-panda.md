@@ -6,7 +6,7 @@ There will be 47611 space pandas **at maximum**, without any kind of reservation
 
 ## Space Panda - Basic
 
-Total 46320 for space panda basic edition.  The first 200 will be distributed through airdrop. The remaining 46120 will be distributed through blind box. The strategies are:
+Total 46620 for space panda basic edition.  The first 500 will be distributed through airdrop. The remaining 46120 will be distributed through blind box. The strategies are:
 
 | Position | Price | Total Issue |
 | :--- | :--- | :--- |
@@ -20,17 +20,23 @@ Total 46320 for space panda basic edition.  The first 200 will be distributed th
 
 ## Space Panda - Special
 
-Total 408 for space pandas special edition.  They will be distributed through auction.
+There will be three rounds of sale at maximum  for special edition. There are 12 different special space pandas in each sale. They will be distributed through auction and blind box.
 
 ![One of the special space pandas](.gitbook/assets/panda_special.png)
 
 ## Space Panda - Hidden
 
-Total 19 for space pandas hidden edition.  They will be distributed through auction.
+In each round of sale, there will be two different space pandas of hidden edition.  They will only be distributed through auction.
 
 ![One of the hidden space pandas \(own it to reveal the mask!\)](.gitbook/assets/panda_hidden.png)
 
-## Distribution Matrix
+## Distribution Metrics
+
+There will be three sale events for the special \(include hidden\) edition. In each sale event, 
+
+| Rank | Reword |
+| :--- | :--- |
+| 1 | 12  |
 
 | Space Panda Type | Issue Count | Issue Way |
 | :--- | :--- | :--- |
