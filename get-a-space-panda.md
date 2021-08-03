@@ -20,32 +20,32 @@ Total 46620 for space panda basic edition.  The first 500 will be distributed th
 
 ## Space Panda - Special
 
-There will be three rounds of sale at maximum  for special edition. There are 12 different special space pandas in each sale. They will be distributed through auction and blind box.
+There will be three rounds of sale at maximum for special edition. There are 12 different special space pandas in each sale. They will be distributed through auction and blind box.
 
 ![One of the special space pandas](.gitbook/assets/panda_special.png)
 
 ## Space Panda - Hidden
 
-In each round of sale, there will be two different space pandas of hidden edition.  They will only be distributed through auction.
+In each round of sale, there will be two different space pandas of hidden edition. They will only be distributed through auction.
 
 ![One of the hidden space pandas \(own it to reveal the mask!\)](.gitbook/assets/panda_hidden.png)
 
 ## Distribution Metrics
 
-There will be three sale events for the special \(include hidden\) edition. In each sale event, 
+There will be three sale events for the special \(include hidden\) edition. In each sale event,  total sale amount is 366. And the distribution details are:
 
-| Rank | Reword |
-| :--- | :--- |
-| 1 | 12  |
+* 240 special space pandas \(not include hidden\) will be offered by blind box. The price is 50 BNB for each.
+* 123 space pandas will be offer by auction:  Rank 1 \(12 special + 2 hidden\), Rank 2 \(12 special + 1 hidden\), Rank 3 - 10 \(12 special\)
+* 3 reserved for special grants.
+
+So the total amount of all the space pandas are 47718. Details are:
 
 | Space Panda Type | Issue Count | Issue Way |
 | :--- | :--- | :--- |
-| Basic Edition | 46320 | Airdrop & Blind Box |
-| Special Edition | 408 x 3 | Auction \(Three series\) |
-| Hidden Edition | 19 x 3 | Auction \(Three series\) |
-| Special Grants | 10 | Not Sold |
-
-Total space pandas are 47611
+| Basic Edition | 46620 | Airdrop & Blind Box |
+| Special Edition | 360 x 3 | Auction & Blind Box \(Three rounds\) |
+| Hidden Edition | 3 x 3 | Auction \(Three rounds\) |
+| Special Grants | 9 | Not Sold \(Grant to community\) |
 
 
 
