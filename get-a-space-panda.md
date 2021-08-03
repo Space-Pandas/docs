@@ -45,7 +45,7 @@ So the total amount of all the space pandas are 47718. Details are:
 | Basic Edition | 46620 | Airdrop & Blind Box |
 | Special Edition | 360 x 3 | Auction & Blind Box \(Three rounds\) |
 | Hidden Edition | 3 x 3 | Auction \(Three rounds\) |
-| Special Grants | 9 | Not Sold \(Grant to community\) |
+| Special Grants | 3 x 3 | Not Sold \(Grant to community\) |
 
 
 
