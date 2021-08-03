@@ -2,7 +2,7 @@
 
 ## Total Number
 
-There will be 47611 space pandas **at maximum**, without any kind of reservation, pre-mining. Every space panda generation can be verified and traced though Intel [**TEE**](https://www.intel.com/content/www/us/en/architecture-and-technology/trusted-execution-technology/trusted-execution-technology-security-paper.html) \(trusted execution environment\) technique. Also each space panda NFT owner information will be stored on our smart contract and [**IPFS**](https://ipfs.io/), without any possibility for modification.
+There will be 47718 space pandas **at maximum**, without any kind of pre-mining. Every space panda generation can be verified and traced though Intel [**TEE**](https://www.intel.com/content/www/us/en/architecture-and-technology/trusted-execution-technology/trusted-execution-technology-security-paper.html) \(trusted execution environment\) technique. Also each space panda NFT owner information will be stored on our smart contract and [**IPFS**](https://ipfs.io/), without any possibility for modification.
 
 ## Space Panda - Basic
 
