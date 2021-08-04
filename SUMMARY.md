@@ -25,6 +25,7 @@
 
 ## Governance
 
+* [vSPT](governance/v-spt.md)
 * [Public Funds](governance/public-funds.md)
 * [Cross-Chain](governance/cross-chain.md)
 * [Gameplay](governance/gameplay.md)
