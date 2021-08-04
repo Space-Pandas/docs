@@ -10,7 +10,7 @@ Each Space Panda has 5 stats, Health, Strength, Attack, Luck, Race. Here's what 
 
 * Health - The amount of damage your space panda can take before being knocked out.
 * Strength - The strength mainly effects the adventure and [SPT](https://docs.pandas.land/economic/spt-token) mining.
-* Attach - The damage your space panda can make during a battle.
+* Attack - The damage your space panda can make during a battle.
 * Luck - Luck increases critical strike chance.
 * Race - Space pandas were born with a race, different race can add different abilities to them.
 
@@ -32,7 +32,13 @@ Ability was determined when the space panda was born.
 
 ## **Advanced Mechanics**
 
+There are a lot of tools, weapons and decorations which can be used for the gameplay, and add different stats of your space panda. 
+
 ### **Weapons**
+
+Weapons can add the attack score to your space panda. The better the weapon is, the easier to win the battle.
+
+![Different Weapons](../.gitbook/assets/weapons.png)
 
 ### **Tools**
 
