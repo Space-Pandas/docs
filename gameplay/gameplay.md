@@ -38,11 +38,17 @@ There are a lot of tools, weapons and decorations which can be used for the game
 
 Weapons can add the attack score to your space panda. The better the weapon is, the easier to win the battle.
 
-![Different Weapons](../.gitbook/assets/weapons.png)
+![Weapons](../.gitbook/assets/weapons.png)
 
 ### **Tools**
+
+![Transportations](../.gitbook/assets/tools.png)
+
+### \*\*\*\*
 
 ### **Decorations**
 
 ### **Food**
+
+![Foods](../.gitbook/assets/foods.png)
 
