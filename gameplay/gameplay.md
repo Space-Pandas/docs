@@ -26,6 +26,8 @@ The ability is very important, it can add extra ratio to Health/Strength/Attach/
 | Ability of 20 | 24 | 36 | 48 | 24 |
 | Ability of 100 | 40 | 60 | 80 | 40 |
 
+Ability was determined when the space panda was born.
+
 ## Races
 
 ## **Advanced Mechanics**
