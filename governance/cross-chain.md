@@ -10,7 +10,7 @@ description: Cross-Chain Governance
 
 All the famous NFTs, such as [Hashmasks](https://www.thehashmasks.com/), [CryptoPunks](https://www.larvalabs.com/cryptopunks),  can be cross-chain transfer to the NFT chain. Users can trade them freely and pay lower gas fee for them.
 
-The SNFT chain contains a lot of game and Defi characteristics. For example, the SNFT chain natively has the  'stake to gain' feature, and users can stake their NFTs to gain SPT.
+The SNFT chain contains a lot of game and Defi characteristics. For example, the SNFT chain natively has the 'stake to gain' feature, and users can stake their NFTs to gain SPT.
 
 ## Cross-Chain Governance
 
