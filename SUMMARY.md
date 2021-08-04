@@ -6,6 +6,7 @@
 
 ## Gameplay
 
+* [Gameplay](gameplay/gameplay.md)
 * [Adventure](gameplay/adventure/README.md)
   * [Interstellar Travel](gameplay/adventure/interstellar-travel.md)
 * [Battling](gameplay/battling/README.md)
