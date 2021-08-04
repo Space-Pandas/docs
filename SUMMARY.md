@@ -23,6 +23,12 @@
 * [SPT Token](economic/spt-token.md)
 * [Public Sale](economic/public-sale.md)
 
+## Governance
+
+* [Public Funds](governance/public-funds.md)
+* [Cross-Chain](governance/cross-chain.md)
+* [Gameplay](governance/gameplay.md)
+
 ## Techinical Guide
 
 * [Algorithm Generated NFT](techinical-guide/algorithm-generated-nft.md)
