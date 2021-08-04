@@ -19,7 +19,8 @@ The public funds will be controlled by [SPT Multisig contract.](https://github.c
 | Key 2 | Space Panda foundation |
 | Key 3 | Partners |
 | Key 4 | Community user |
-| Key 5 | Recognized game player |
+| Key 5 | Community user |
+| Key 6 | Recognized game player |
 
 At least 4/6 of the above roles can make an agreement to use the public funds.
 
