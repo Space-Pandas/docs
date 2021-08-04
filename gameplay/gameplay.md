@@ -42,9 +42,9 @@ Weapons can add the attack score to your space panda. The better the weapon is, 
 
 ### **Tools**
 
-![Transportations](../.gitbook/assets/tools.png)
+![Transportation Tools](../.gitbook/assets/tools.png)
 
-### \*\*\*\*
+![Mining Tools](../.gitbook/assets/tools.jpeg)
 
 ### **Decorations**
 
