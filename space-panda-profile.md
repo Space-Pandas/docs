@@ -1,4 +1,4 @@
-# Space Panda Profile
+# SpacePanda Profile
 
 ## Space Panda
 

@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Space Panda](README.md)
-* [Space Panda Profile](space-panda-profile.md)
-* [Get a Space Panda](get-a-space-panda.md)
+* [SpacePanda](README.md)
+* [SpacePanda Profile](space-panda-profile.md)
+* [Get a SpacePanda](get-a-space-panda.md)
 
 ## Gameplay
 
