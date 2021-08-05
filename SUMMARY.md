@@ -33,7 +33,7 @@
 ## Techinical Guide
 
 * [Algorithm Generated NFT](techinical-guide/algorithm-generated-nft.md)
-* [Using SGX in Space Pandas](techinical-guide/using-sgx-in-pandas.md)
+* [Using SGX in SpacePanda](techinical-guide/using-sgx-in-pandas.md)
 * [Cross-Chain Supported](techinical-guide/cross-chain-supported.md)
 * [User Generated Crypto](techinical-guide/user-generated-crypto.md)
 * [Defi & Gaming](techinical-guide/defi-and-gaming.md)
