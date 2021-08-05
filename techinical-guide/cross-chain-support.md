@@ -1,4 +1,4 @@
-# Cross-Chain Supported
+# Cross-Chain Support
 
 ## SpacePanda NFT Chain
 

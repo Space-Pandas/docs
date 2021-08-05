@@ -34,7 +34,7 @@
 
 * [Algorithm Generated NFT](techinical-guide/algorithm-generated-nft.md)
 * [Using SGX in SpacePanda](techinical-guide/using-sgx-in-pandas.md)
-* [Cross-Chain Supported](techinical-guide/cross-chain-supported.md)
+* [Cross-Chain Support](techinical-guide/cross-chain-support.md)
 * [User Generated Crypto](techinical-guide/user-generated-crypto.md)
 * [Defi & Gaming](techinical-guide/defi-and-gaming.md)
 * [Space Panda NFT Wallet](techinical-guide/space-panda-nft-wallet.md)
