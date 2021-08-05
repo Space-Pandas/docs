@@ -2,7 +2,7 @@
 description: "Welcome to Space Panda land \U0001F43C"
 ---
 
-# SpacePanda
+# Space Panda
 
 ## Who are Space Pandas
 

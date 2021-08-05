@@ -1,4 +1,4 @@
-# Get a SpacePanda
+# Get a Space Panda
 
 ## Total Number
 
