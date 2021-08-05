@@ -6,7 +6,7 @@ SpacePanda base modal was built on top of [blender](https://www.blender.org/)
 
 ## Body Parts Generation
 
-Once the modeling of SpacePanda is done. It will ouput the SVG format of the base SpacePanda. Then the SpacePanda generation algorithm will run in TEE to produce an unique NFT for user. Here is an example how the eyes are genererated. **randomEye** function will receive a rand paramater to create random eyes for SpacePanda. Please note that the rand parameter is the seed random number created by TEE.
+Once the modeling of SpacePanda is done. It will ouput the SVG format of the base SpacePanda. Then the SpacePanda generation algorithm will run in TEE to produce an unique NFT for user. Here is an example how the eyes are generated. **randomEye** function will receive a rand parameter to create random eyes for SpacePanda. Please note that the rand parameter is the seed random number created by TEE.
 
 ```javascript
 function randomEye(panda: Panda, rand): Panda {
