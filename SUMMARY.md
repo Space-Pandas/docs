@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Space Panda](README.md)
+* [Links](links.md)
 * [Space Panda Profile](space-panda-profile.md)
 * [Get a Space Panda](get-a-space-panda.md)
 
