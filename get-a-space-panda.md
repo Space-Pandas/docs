@@ -32,13 +32,13 @@ In each round of sale, there will be two hidden edition space pandas. They will 
 
 ## Distribution Metrics
 
-There will be three sale events for the special \(include hidden\) edition. In each sale event,  total sale amount is 366. And the distribution details are:
+There will be three sale events for the special \(include hidden\) edition. In each sale event,  the total sale amount is 366. And the distribution details are:
 
-* 240 special space pandas \(not include hidden\) will be offered by blind box. The price is 50 BNB for each.
+* 240 special space pandas \(not including hidden\) will be offered by blind box. The price is 50 BNB for each.
 * 123 space pandas will be offer by auction:  Rank 1 \(12 special + 2 hidden\), Rank 2 \(12 special + 1 hidden\), Rank 3 - 10 \(12 special\)
 * 3 reserved for special grants.
 
-So the total amount of all the space pandas are 47718. Details are:
+So the total number of all the space pandas is 47718. Details are:
 
 | Space Panda Type | Issue Count | Issue Way |
 | :--- | :--- | :--- |
