@@ -2,7 +2,7 @@
 
 ## Total Number
 
-There will be 47718 space pandas **at maximum**, without any kind of pre-mining. Every space panda generation can be verified and traced though Intel [**TEE**](https://www.intel.com/content/www/us/en/architecture-and-technology/trusted-execution-technology/trusted-execution-technology-security-paper.html) \(trusted execution environment\) technique. Also each space panda NFT owner information will be stored on our smart contract and [**IPFS**](https://ipfs.io/), without any possibility for modification.
+There will be 47718 space pandas **at maximum**, without any kind of pre-mining. Every space panda generation can be verified and traced through Intel [**TEE**](https://www.intel.com/content/www/us/en/architecture-and-technology/trusted-execution-technology/trusted-execution-technology-security-paper.html) \(trusted execution environment\) technique. Also space panda NFT owner information will be stored on our smart contract and [**IPFS**](https://ipfs.io/), with no risk of tampering.
 
 ## Space Panda - Basic
 
@@ -20,13 +20,13 @@ Total 46620 for space panda basic edition.  The first 500 will be distributed th
 
 ## Space Panda - Special
 
-There will be three rounds of sale at maximum for special edition. There are 12 different special space pandas in each sale. They will be distributed through auction and blind box.
+There will be three rounds of sale at maximum for the special edition. There are 12 different special space pandas in each sale. They will be distributed through auction and blind box.
 
 ![One of the special space pandas](.gitbook/assets/panda_special.png)
 
 ## Space Panda - Hidden
 
-In each round of sale, there will be two different space pandas of hidden edition. They will only be distributed through auction.
+In each round of sale, there will be two hidden edition space pandas. They will only be distributed through auction.
 
 ![One of the hidden space pandas \(own it to reveal the mask!\)](.gitbook/assets/panda_hidden.png)
 
