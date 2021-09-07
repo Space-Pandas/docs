@@ -2,6 +2,8 @@
 
 Space Panda Land is a blockchain universe, where different space pandas were born, grow up and battle. Players can raise a space panda and gain reword through skilled gameplay.
 
+Space Panda Land will be deployed on Binance Smart Chain. Space panda owners can cross-chain transfer their space pandas to BSC and enjoy the gameplay.
+
 ![Adventure &amp; Battling](../.gitbook/assets/play.png)
 
 ## Stats
