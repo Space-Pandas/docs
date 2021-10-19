@@ -1,5 +1,9 @@
 # Cross-Chain Support
 
+Built on top of SpacePanda NFT(spNFT) chain, which is built for the cross-chain of NFT assets. The spNFT platform also provides a NFT wallet and a universal cross-chain NFT protocol.
+
+All the NFTs can be cross-chain transferred to any blockchain networks safely and trustworthy, to earn maximum profit through farming, staking, gameplay and pay less gas fees.
+
 ## SpacePanda NFT Chain
 
 [SpacePanda NFT chain](https://github.com/Space-Pandas/space-panda-nft-chain) (spNFT) chain is built on top of [Substrate](https://substrate.dev). Substrate is powered by best-in-class cryptographic research and comes with peer-to-peer networking, consensus mechanisms, and much more.
