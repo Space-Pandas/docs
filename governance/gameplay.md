@@ -6,4 +6,3 @@ There are a lot of parameters in the game, and most of them can be governed. Det
 * The naming cost for space panda in SPT.
 * The mining reword of SPT.
 * The battle reword of SPT
-

@@ -1,5 +1,5 @@
 ---
-description: "Welcome to Space Panda land \U0001F43C"
+description: Welcome to Space Panda land 🐼
 ---
 
 # Space Panda
@@ -24,7 +24,7 @@ Space Panda Land uses universal ERC20 and ERC721 cross-chain technology to simul
 
 #### Fairness
 
-This is a fair world, the game introduces the **Trusted Execution Environment** \(TEE\) technology to make sure that the Space Panda Blind Box is fair to everyone,  any Space Panda creation mechanism can be traced and verified by TEE.
+This is a fair world, the game introduces the **Trusted Execution Environment** (TEE) technology to make sure that the Space Panda Blind Box is fair to everyone,  any Space Panda creation mechanism can be traced and verified by TEE.
 
 #### Highest Safety
 
@@ -38,5 +38,4 @@ Space Pandas can be the bridge to your friends and contacts, etc. You can play w
 
 
 
-\*\*\*\*
-
+****

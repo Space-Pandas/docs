@@ -4,7 +4,7 @@ Space Panda Land is a blockchain universe, where different space pandas were bor
 
 Space Panda Land will be deployed on Binance Smart Chain. Space panda owners can cross-chain transfer their space pandas to BSC and enjoy the gameplay.
 
-![Adventure &amp; Battling](../.gitbook/assets/play.png)
+![Adventure & Battling](../.gitbook/assets/play.png)
 
 ## Stats
 
@@ -21,13 +21,13 @@ Each Space Panda has 6 stats, Health, Strength, Attack, Luck, Speed, Race. Here'
 
 Each Space Panda has 6 body parts: eye, mouth, nose, limbs, hair, glow. These body parts can determine the ability value of a space panda. The minimum value of ability is 20, and the maximum is 100.
 
-The ability is very important, it can add extra ratio to Health/Strength/Attach/Luck. The below table shows how the ability works \(suppose the space pandas are only different with ability score\):
+The ability is very important, it can add extra ratio to Health/Strength/Attach/Luck. The below table shows how the ability works (suppose the space pandas are only different with ability score):
 
-| Space Pandas | Health | Strength | Attach | Luck |
-| :--- | :--- | :--- | :--- | :--- |
-| Ability of 0 | 20 | 30 | 40 | 20 |
-| Ability of 20 | 24 | 36 | 48 | 24 |
-| Ability of 100 | 40 | 60 | 80 | 40 |
+| Space Pandas   | Health | Strength | Attach | Luck |
+| -------------- | ------ | -------- | ------ | ---- |
+| Ability of 0   | 20     | 30       | 40     | 20   |
+| Ability of 20  | 24     | 36       | 48     | 24   |
+| Ability of 100 | 40     | 60       | 80     | 40   |
 
 Ability was determined when the space panda was born.
 
@@ -35,7 +35,7 @@ Ability was determined when the space panda was born.
 
 ## **Advanced Mechanics**
 
-There are a lot of tools, weapons and decorations which can be used for the gameplay, and add different stats of your space panda. 
+There are a lot of tools, weapons and decorations which can be used for the gameplay, and add different stats of your space panda.&#x20;
 
 ### **Weapons**
 
@@ -55,7 +55,7 @@ There are different mining tools.They can add extra Strength Points to your spac
 
 ### **Decorations**
 
-Different ****decorations have different functionalities. Some decorations can add Health Points \(HP\), some decorations can add strength, and some very rare decorations even can add Luck Points!
+Different** **decorations have different functionalities. Some decorations can add Health Points (HP), some decorations can add strength, and some very rare decorations even can add Luck Points!
 
 ![Decorations](../.gitbook/assets/decorations.png)
 
@@ -64,4 +64,3 @@ Different ****decorations have different functionalities. Some decorations can a
 Different foods can add HP or Strength Points to your space panda.
 
 ![Foods](../.gitbook/assets/foods.png)
-

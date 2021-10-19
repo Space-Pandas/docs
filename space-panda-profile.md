@@ -2,9 +2,9 @@
 
 ## Space Panda
 
-Space pandas are lovely interstellar explorers and warriors. Here is an photo of a space panda. 
+Space pandas are lovely interstellar explorers and warriors. Here is an photo of a space panda.&#x20;
 
-![](.gitbook/assets/panda_base.png)
+![](.gitbook/assets/panda\_base.png)
 
 ## Space Panda Features
 
@@ -27,8 +27,6 @@ Each Space Panda has different traits, demonstrated as below:
 
 Since each space pandas has different traits. We introduce an ability score to represent the rarity of them. The space pandas with high ability score will vary in:
 
-1. **High mining speed**: They will get high mining speed for the interstellar mineral resources, and get more Space Token \(SPT\). 
+1. **High mining speed**: They will get high mining speed for the interstellar mineral resources, and get more Space Token (SPT).&#x20;
 2. **High rarity**: They may be traded on [OpenSea](https://opensea.io/assets) with a high price.
-
-
 
